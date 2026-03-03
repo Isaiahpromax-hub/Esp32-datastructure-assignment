@@ -244,13 +244,16 @@ void setup() {
     Serial.println("- Array: Fixed size (allocates all memory upfront), no per-element overhead");
     Serial.println("- Linked List: Dynamic size, but each node requires extra memory for pointer");
     Serial.println();
+    Serial.println();
     Serial.println("For a playlist that rarely changes, array is more memory-efficient because:");
     Serial.println("1. No pointer overhead (8 bytes per node on 32-bit ESP32)");
     Serial.println("2. Contiguous memory layout with no fragmentation");
     Serial.println();
+    Serial.println();
     Serial.println("For frequent adds/removes in the middle, linked list is more time-efficient because:");
     Serial.println("1. O(1) insertion/deletion after finding position (just change pointers)");
     Serial.println("2. Array requires O(n) shifting of all subsequent elements");
+    Serial.println();
     Serial.println();
     Serial.println("Risks of linked list on ESP32 over long periods:");
     Serial.println("1. Memory fragmentation - frequent new/delete creates non-contiguous free memory");
@@ -260,5 +263,6 @@ void setup() {
 }
 
 void loop() {
-    // Nothing to do here - all work is done in setup()
+ 
+
 }

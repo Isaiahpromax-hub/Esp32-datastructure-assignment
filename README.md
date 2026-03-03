@@ -52,7 +52,7 @@ Four C++ implementations on ESP32 simulator demonstrating core data structures a
 - C++
 - ESP32
 - Wokwi Simulator
-- Arduino Framework
+
 
 ## 📊 Key Features
 - Dynamic memory management
@@ -60,7 +60,7 @@ Four C++ implementations on ESP32 simulator demonstrating core data structures a
 - Embedded system optimization
 - Real-time simulation
 - Comprehensive code comments
-- Edge case handling
+
 
 ## ▶️ How to Run
 1. Open Wokwi ESP32 simulator
@@ -73,4 +73,4 @@ All four questions completed with working implementations and analysis comments.
 
 ---
 
-*Assignment submission for [Course Name]*
+*Assignment submission for [ANALYSIS AND DESIGN OF ALGORITHMS, EEE2203]*

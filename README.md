@@ -9,7 +9,7 @@
 ## 📋 Overview
 Four C++ implementations on ESP32 simulator demonstrating core data structures and memory management techniques.
 
-## 🔗 Wokwi Links
+## 🔗 Wokwi Links(simulations)
 - **Q1 Playlist:**
 (https://wokwi.com/projects/457474914435837953)
 

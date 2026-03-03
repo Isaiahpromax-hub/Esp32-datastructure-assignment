@@ -1,10 +1,10 @@
 # ESP32 Data Structures Assignment
 
 ## 👥 Group Members
-- Member 1
-- Member 2
-- Member 3
-- Member 4
+- Member 1  KABWOKO ENOCK 2401600225
+- Member 2  KOBUSINGYE RITAH 2401600224
+- Member 3  ATIM ANA MARY 2401600079
+- Member 4  MWAMBU ISAIAH 2401600395
 
 ## 📋 Overview
 Four C++ implementations on ESP32 simulator demonstrating core data structures and memory management techniques.

@@ -1,4 +1,4 @@
-# ESP32 Data Structures Assignment
+# ESP32 Data Structure Implementations
 
 ## 👥 Group Members
 - Member 1  KABWOKO ENOCK 2401600225

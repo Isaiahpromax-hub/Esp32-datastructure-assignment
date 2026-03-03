@@ -23,11 +23,11 @@ Four C++ implementations on ESP32 simulator demonstrating core data structures a
 ## 📁 Files
 QUESTION 1 FILE..>https://github.com/Isaiahpromax-hub/Esp32-datastructure-assignment/blob/main/question1(playlist).cc
 
-QUESTION 2 FILE..>https://github.com/Isaiahpromax-hub/Esp32-datastructure-assignment/blob/main/question1(memoryleak).cc
+QUESTION 2 FILE..>https://github.com/Isaiahpromax-hub/Esp32-datastructure-assignment/blob/main/question2(memoryleak).cc
 
-QUESTION 3 FILE..>https://github.com/Isaiahpromax-hub/Esp32-datastructure-assignment/blob/main/question1(circularbuffer).cc
+QUESTION 3 FILE..>https://github.com/Isaiahpromax-hub/Esp32-datastructure-assignment/blob/main/question3(circularbuffer).cc
 
-QUESTION 4 FILE..>https://github.com/Isaiahpromax-hub/Esp32-datastructure-assignment/blob/main/question1(menustack).cc
+QUESTION 4 FILE..>https://github.com/Isaiahpromax-hub/Esp32-datastructure-assignment/blob/main/question4(menustack).cc
 
 
 

@@ -238,7 +238,7 @@ void setup() {
         delete temp;
     }
     
-    // Print analysis
+    
     Serial.println("\n==================== ANALYSIS ====================");
     Serial.println("Memory Trade-offs:");
     Serial.println("- Array: Fixed size (allocates all memory upfront), no per-element overhead");
@@ -266,3 +266,4 @@ void loop() {
  
 
 }
+

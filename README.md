@@ -83,7 +83,7 @@ QUESTION 4 FILE..>https://github.com/Isaiahpromax-hub/Esp32-datastructure-assign
 
 3.Results are analyzed alongside the workspace serial monitor.
 
-3.Ensure Serial Monitor (115200 baud)
+4.Ensure Serial Monitor (115200 baud)
 
 ## ✅ Status
 All four questions completed with working implementations and analysis comments.

@@ -12,7 +12,7 @@ struct SensorData {
 };
 
 // ======================================================
-// STEP 1 ORIGINAL FUNCTION (with memory leak)
+// STEP 1 ORIGINAL FUNCTION ((with memory leak))
 // ======================================================
 /*
  * ORIGINAL BUGGY FUNCTION - HAS MEMORY LEAK!
@@ -214,4 +214,5 @@ void loop() {
   }
   
   delay(1000);  // Wait 1 second between readings
+
 }

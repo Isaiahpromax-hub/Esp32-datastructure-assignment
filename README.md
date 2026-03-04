@@ -78,8 +78,11 @@ QUESTION 4 FILE..>https://github.com/Isaiahpromax-hub/Esp32-datastructure-assign
 
 ## ▶️ How to Run
 1.Click in the above wokwi links provided basing on your question you need test.
+
 2.Takes you direct to workspace for running code and testing.
+
 3.Results are analyzed alongside the workspace serial monitor.
+
 3.Ensure Serial Monitor (115200 baud)
 
 ## ✅ Status

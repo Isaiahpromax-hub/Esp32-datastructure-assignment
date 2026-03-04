@@ -258,7 +258,7 @@ void setup() {
     Serial.println("Risks of linked list on ESP32 over long periods:");
     Serial.println("1. Memory fragmentation - frequent new/delete creates non-contiguous free memory");
     Serial.println("2. Heap exhaustion - small heap (typically 320KB) can become too fragmented");
-    Serial.println("3. Slower access times due to non-cache-friendly scattered memory locations");
+    Serial.println("3. Slower access times");
     Serial.println("==================================================\n");
 }
 
@@ -266,4 +266,5 @@ void loop() {
  
 
 }
+
 

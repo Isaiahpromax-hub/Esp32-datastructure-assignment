@@ -10,15 +10,17 @@
 Four C++ implementations on ESP32 simulator demonstrating core data structures and memory management techniques.
 
 ## 🔗 Wokwi Links(simulations)
-- **Q1 Playlist:**
+ **Q1 Playlist:**
 (https://wokwi.com/projects/457474914435837953)
 
-- **Q2 Memory Leak:** [Wokwi Link]
-- 
-- **Q3 Circular Buffer:** [Wokwi Link]
-- 
-- **Q4 Menu Stack:** [Wokwi Link]
-- 
+
+ **Q2 Memory Leak:** [Wokwi Link]
+ 
+ **Q3 Circular Buffer:** [Wokwi Link]
+ 
+ **Q4 Menu Stack:**
+https://wokwi.com/projects/457480342345603073
+  
 
 ## 📁 Files
 QUESTION 1 FILE..>https://github.com/Isaiahpromax-hub/Esp32-datastructure-assignment/blob/main/question1(playlist).cc

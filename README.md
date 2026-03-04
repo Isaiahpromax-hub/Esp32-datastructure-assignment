@@ -14,7 +14,9 @@ Four C++ implementations on ESP32 simulator demonstrating core data structures a
 (https://wokwi.com/projects/457474914435837953)
 
 
- **Q2 Memory Leak:** [Wokwi Link]
+ **Q2 Memory Leak:**
+ https://wokwi.com/projects/457569996147013633
+ 
  
  **Q3 Circular Buffer:** 
  https://wokwi.com/projects/457563209374723073

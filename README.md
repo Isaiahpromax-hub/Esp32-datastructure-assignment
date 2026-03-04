@@ -77,10 +77,10 @@ QUESTION 4 FILE..>https://github.com/Isaiahpromax-hub/Esp32-datastructure-assign
 
 
 ## ▶️ How to Run
-1. Open Wokwi ESP32 simulator
-2. Copy code from respective file
-3. Paste and run simulation
-4. Open Serial Monitor (115200 baud)
+1.Click in the above wokwi links provided basing on your question you need test.
+2.Takes you direct to workspace for running code and testing.
+3.Results are analyzed alongside the workspace serial monitor.
+3.Ensure Serial Monitor (115200 baud)
 
 ## ✅ Status
 All four questions completed with working implementations and analysis comments.

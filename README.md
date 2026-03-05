@@ -11,7 +11,7 @@ Four C++ implementations on ESP32 simulator demonstrating core data structures a
 
 ## 🔗 Wokwi Links(simulations)
  **Q1 Playlist:**
-(https://wokwi.com/projects/457474914435837953)
+https://wokwi.com/projects/457660342100540417
 
 
  **Q2 Memory Leak:**
